@@ -127,30 +127,7 @@ Mis experimentos de personalización de Android:
 
 ---
 
-## `06 // SYSTEM_METRICS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=almos28X&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=C4B5FD&text_color=E6EDF3" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almos28X&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=E6EDF3" alt="Top languages" />
-
-</div>
-
----
-
-## `07 // CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=almos28X&hide_border=true&background=0D1117&ring=7DD3FC&fire=C4B5FD&currStreakNum=E6EDF3&currStreakLabel=7DD3FC&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=almos28X&bg_color=0D1117&color=7DD3FC&line=C4B5FD&point=E6EDF3&area=true&area_color=7DD3FC&hide_border=true" alt="Activity graph" />
-
-</div>
-
----
-
-## `08 // CONNECT`
+## `06 // CONNECT`
 
 <div align="center">
 
