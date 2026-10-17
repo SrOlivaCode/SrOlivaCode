@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7DD3FC&height=210&section=header&text=Sr_Oliva&fontSize=64&fontColor=E6EDF3&fontAlignY=38&desc=Code%20Lover%20%C2%B7%20Android%20Tinkerer&descSize=18&descColor=C4B5FD&descAlignY=60" alt="Sr_Oliva banner" />
 
-<a href="https://github.com/almos28X">
+<a href="https://github.com/SrOlivaCode">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=640&lines=Amante+del+c%C3%B3digo;Android+%C2%B7+SystemUI+%C2%B7+Launcher;Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+Smali;Creando+e'Books;Capas.+Cristal.+Control." alt="Typing animation" />
 </a>
 
@@ -103,10 +103,10 @@ STATUS      : ONLINE
 
 <br/>
 
-<a href="https://github.com/almos28X/ebooks-updates/releases/latest/download/ebooks.apk">
+<a href="https://github.com/SrOlivaCode/ebooks-updates/releases/latest/download/ebooks.apk">
   <img src="https://img.shields.io/badge/DESCARGAR_APK-7DD3FC?style=for-the-badge&logo=android&logoColor=0D1117" alt="Descargar APK" />
 </a>
-<a href="https://github.com/almos28X/ebooks-updates">
+<a href="https://github.com/SrOlivaCode/ebooks-updates">
   <img src="https://img.shields.io/badge/ABRIR_REPOSITORIO-161B22?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Abrir repositorio" />
 </a>
 
