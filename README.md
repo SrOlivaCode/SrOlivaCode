@@ -131,12 +131,26 @@ Mis experimentos de personalización de Android:
 
 <div align="center">
 
+```bash
+> open_channel --telegram
+
+[ OK ] Signal ready
+[ OK ] Awaiting message... █
+```
+
 <a href="https://t.me/Sr_Oliva_2">
-  <img src="https://img.shields.io/badge/Telegram-@Sr__Oliva__2-161B22?style=for-the-badge&logo=telegram&logoColor=7DD3FC" alt="Telegram" />
+  <img src="https://img.shields.io/badge/ESCRIBIRME_POR_TELEGRAM-7DD3FC?style=for-the-badge&logo=telegram&logoColor=0D1117" alt="Escribirme por Telegram" />
+</a>
+<a href="https://t.me/Sr_Oliva_2">
+  <img src="https://img.shields.io/badge/-@Sr__Oliva__2-161B22?style=for-the-badge&labelColor=161B22&color=161B22" alt="@Sr_Oliva_2" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:0D1117&height=100&section=footer" alt="footer" />
+<sub>¿Ideas, dudas o mods? Escríbeme.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7DD3FC,100:C4B5FD&height=2" width="60%" alt="divider" />
+
+<sub><code>© Sr_Oliva · Capas. Cristal. Control.</code></sub>
 
 </div>
